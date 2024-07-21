@@ -64,7 +64,7 @@ This project provides a script to generate AI responses for user prompts stored 
      Prompt 2 text
      ----
      Prompt 3 text
-     ```
+   
 
 2. **Run the Script**:
    - Execute the script to generate responses and create the output files:
