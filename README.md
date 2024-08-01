@@ -1,5 +1,3 @@
-### README for AI Response Generator Project
-
 # AI Response Generator
 
 This project provides a script to generate AI responses for user prompts stored in an input file. It uses Google Generative AI to generate responses, saves the responses in a Markdown file, and then converts the Markdown file to a PDF.
